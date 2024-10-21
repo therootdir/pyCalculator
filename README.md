@@ -13,7 +13,7 @@ Coming Up...
 ## Installation & Usage:
 1. Clone the repository:
 ```
-git clone https://github.com/douglascybersec/pyCalculator.git
+git clone https://github.com/therootdir/pyCalculator.git
 
 ```
 
