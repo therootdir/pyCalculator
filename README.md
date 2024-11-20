@@ -1,6 +1,6 @@
 # **Python Calculator**
 
-![preview](https://github.com/therootdir/pyCalculator/blob/master/preview.PNG)
+> ![preview](https://github.com/therootdir/pyCalculator/blob/master/preview.PNG)
 > Inspired by an iPhone calculator, pyCalculator is a desktop calculator with a sleek Customtkinter userfriendly design interface. Use this to learn
 
 ## Features
